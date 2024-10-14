@@ -1,16 +1,16 @@
 # MGH Project
 # TABLE OF CONTENTS
- project Overview
+ Project Overview
  Detailed Description of the Data Analysis Process
  Findings
  Recommendations
  Conclusion
 
 # PROJECT OVERVIEW
-Project Overview 
+# Project Overview 
 This project involves an in-depth analysis of six datasets provided by Massachusetts General Hospital (MGH), a leading healthcare institution in the U.S. Our goal is to extract meaningful insights regarding healthcare trends, patient outcomes, and organizational efficiency. The analysis is structured around five key hypotheses focused on provider utilization, mortality rates across age groups, racial health disparities, revenue generation by encounter type, and payer coverage effectiveness.
 
-Detailed Description of the Data Analysis Process
+# Detailed Description of the Data Analysis Process
 Data Preparation
 The analysis began with the extraction of six tables from an initial dataset, focusing on the encounter table. This step ensured a robust foundation for our analysis. We conducted a thorough review of data types and addressed discrepancies to maintain data integrity. Using Power Query, we optimized resource usage by employing the "close and load" option with "connection only" settings, preserving efficient access to the dataset.
 
@@ -32,10 +32,12 @@ Older Age Groups exhibited significantly higher mortality rates, confirming the 
 White Individuals showed higher prevalence rates for various illnesses, indicating potential health disparities.
 Ambulatory Encounters generated more revenue compared to inpatient and emergency services, emphasizing the financial viability of outpatient care.
 Medicaid, BlueCross BlueShield, and Medicare demonstrated comprehensive coverage, reflecting their importance in patient healthcare access.
-Recommendations
+
+# Recommendations
 Based on our findings, we recommend:
 
-Resource Allocation: Focus on enhancing support for general practitioners and expanding outpatient services to optimize revenue generation.
+# Resource Allocation:
+Focus on enhancing support for general practitioners and expanding outpatient services to optimize revenue generation.
 Geriatric Care Strategies: Implement targeted interventions for older patients to improve outcomes and resource management.
 Addressing Health Disparities: Develop programs to reduce the prevalence of illness in underrepresented racial groups, promoting equitable healthcare access.
 Insurance Provider Collaboration: Engage with major payers to ensure that coverage gaps are addressed, particularly in high-need areas.
