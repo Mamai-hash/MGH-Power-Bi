@@ -1,6 +1,13 @@
-# MGH-Power-Bi
+# MGH Project
+# TABLE OF CONTENTS
+ project Overview
+ Detailed Description of the Data Analysis Process
+ Findings
+ Recommendations
+ Conclusion
+
 # PROJECT OVERVIEW
-Project Overview Summary
+Project Overview 
 This project involves an in-depth analysis of six datasets provided by Massachusetts General Hospital (MGH), a leading healthcare institution in the U.S. Our goal is to extract meaningful insights regarding healthcare trends, patient outcomes, and organizational efficiency. The analysis is structured around five key hypotheses focused on provider utilization, mortality rates across age groups, racial health disparities, revenue generation by encounter type, and payer coverage effectiveness.
 
 Detailed Description of the Data Analysis Process
