@@ -35,8 +35,7 @@ Medicaid, BlueCross BlueShield, and Medicare demonstrated comprehensive coverage
 
 # Recommendations
 Based on our findings, we recommend:
-
-# Resource Allocation:
+Resource Allocation:
 Focus on enhancing support for general practitioners and expanding outpatient services to optimize revenue generation.
 Geriatric Care Strategies: Implement targeted interventions for older patients to improve outcomes and resource management.
 Addressing Health Disparities: Develop programs to reduce the prevalence of illness in underrepresented racial groups, promoting equitable healthcare access.
