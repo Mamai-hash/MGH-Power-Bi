@@ -19,7 +19,14 @@ Data Processing Tools.
 
 2. Alteryx: After importing the dataset, we utilized various tools for data cleansing, such as removing null values and duplicates. We also calculated patient ages and standardized gender entries, saving the cleaned data in both CSV and YXMD formats for future use.
 
+![image](https://github.com/user-attachments/assets/3503df49-fb61-4fb9-ac64-826dfaebde30)
+
+
 3. SQL: The refined datasets were then imported into SQL for deeper analysis. We executed complex queries and joined tables to integrate datasets, which helped us gain a better understanding of patient and provider interactions.
+
+![image](https://github.com/user-attachments/assets/4065f156-90bc-4fe4-8f2a-ac88a5e29829)
+
+
 
 ```
 /*Organizations with more than the average revenue */
